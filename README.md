@@ -14,3 +14,9 @@ $ heroku create $PROJECT
 $ heroku git:remote -a $PROJECT
 $ git push heroku main
 ```
+
+make changes by adding to page, then
+
+```
+$ git push heroku main
+```
