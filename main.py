@@ -34,9 +34,9 @@ h1, h2, strong {
 </head>
 
 <body>
-  <h2>The Schooner</h2>
-  <p><img src="http://www.marinemodelartist.com/Mary_Taylor/Mary_Taylor_files/shapeimage_4.png"</p>
-<p>This is a schooner.</p>
+  <h2>The Python</h2>
+  <p><img src="https://image.shutterstock.com/image-vector/vector-illustration-icon-python-programming-260nw-1397241389.jpg"</p>
+<p>This is a Python.</p>
 
 
 </body>
