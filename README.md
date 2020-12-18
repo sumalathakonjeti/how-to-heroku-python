@@ -17,6 +17,8 @@ $ git push heroku main
 
 make changes by adding to page, then
 
+be sure to git commit(!) and I usually push too.
+
 ```
 $ git push heroku main
 ```
