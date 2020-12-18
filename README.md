@@ -8,7 +8,9 @@ $ pip3 install -r requirements.txt
 
 # install heroku CLI and then
 
+$ heroku --version
+
 $ heroku create $PROJECT
 $ heroku git:remote -a $PROJECT
-$ git push heroku master
+$ git push heroku main
 ```
