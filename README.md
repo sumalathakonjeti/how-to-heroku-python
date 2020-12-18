@@ -22,3 +22,5 @@ be sure to git commit(!) and I usually push too.
 ```
 $ git push heroku main
 ```
+
+talk about Config vars...
