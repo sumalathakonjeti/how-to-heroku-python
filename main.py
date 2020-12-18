@@ -1,6 +1,6 @@
 from flask import Flask
 
-page = """
+pagehtml = """
 <!doctype html>
 
 <html lang="en">
@@ -44,4 +44,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello World! - a Flask App on Heroku"
+    return pagehtml
